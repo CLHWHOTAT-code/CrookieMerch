@@ -1,0 +1,95 @@
+.product {
+	padding: 90px 0 0 150px;
+	display: flex;
+	position: relative;
+
+}
+
+.product img {
+	width: 500px;
+	height: 500px;
+}
+
+.product h1 {
+	position: relative;
+	left: 250px;
+	  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.product h2 {
+	color: #786d77;
+	position: relative;
+	top: 125px;
+	right: 250px;
+		  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.product select {
+	position: relative;
+	top: 200px;
+	right: 345px;
+	display: block;
+	padding: 10px;
+		width: 120px;
+	height: 40px;
+	border: 1px solid #ffc2f2;
+}
+
+.inputype {
+	position: relative;
+	bottom: 10px;
+	left: 685px;
+	bottom: 240px;
+}
+
+.inputype input {
+	width: 50px;
+	height: 40px;
+	border: 1px solid #ffc2f2;
+}
+
+.button {
+	position: relative;
+	left: 750px;
+	bottom: 314px;
+		font-size: 150%;
+	  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+	display: inline-block;
+	background: #f5c6ec;
+	color: #ffffff;
+		padding: 8px 30px;
+	margin: 30px 0;
+	border-radius: 40px;
+	text-decoration: none;
+	text-size-adjust: 300px;
+}
+
+.details {
+	position: relative;
+	bottom: 300px;
+	left: 690px;
+		  font-family: "Playfair Display", serif;
+}
+
+.home-btn {
+	position: relative;
+	bottom: 190px;
+  display: inline-block;
+  margin: -60px 0 0 40px;
+  text-decoration: none;
+  background: #ffc2f2;
+  color: white;
+  padding: 12px 18px;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: 0.3s;
+}
